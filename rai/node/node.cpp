@@ -3003,7 +3003,7 @@ bool rai::handle_node_options (boost::program_options::variables_map & vm)
 		}
 		else
 		{
-			std::cerr << "account comand requires one <key> option\n";
+			std::cerr << "account command requires one <key> option\n";
 			result = true;
 		}
 	}
